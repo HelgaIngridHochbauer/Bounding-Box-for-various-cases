@@ -1,5 +1,4 @@
-#new variant correct
-#LA ROTATING CALIPERS TR INSLATAT CV 
+
 import numpy as np
 from typing import List, Tuple
 from dataclasses import dataclass
